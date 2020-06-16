@@ -1,4 +1,4 @@
 # Data Science Lessons
 
 ## Pandas:
-    Tutorial 1: https://www.youtube.com/watch?v=vmEHCJofslg
+Tutorial 1: https://www.youtube.com/watch?v=vmEHCJofslg
