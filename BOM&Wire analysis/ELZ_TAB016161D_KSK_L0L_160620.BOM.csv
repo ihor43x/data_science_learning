@@ -1,0 +1,644 @@
+1;LEITUNGSSTRANG;;;;;;;;;;;;;;
+2;V1;12E_970_000_K;L0L;3727 (g);~;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;PP-Wellschlauch Gr=4.5 D(i)=4.0 D(a)=7.6;N___107_324_01-2018_11_14-14_30_42_082.1;-;-;1-10E;N___107_324_01;-;-;-;mm;380;;;;
+3;Steckergehause_OBD2;TDIAG.1A1;Koppelstelle für Diagnose;DIAG;1-30J;3A0_972_695_A;-;-;schwarz;Stk.;1;;;;
+3;Halter, Aufnahme;KH_DIAG;-;KH_DIAG;1-30J;1S0_907_461_A;-;DIAG;-;Stk.;1;;;;
+3;Connector Shell;KH_MW;-;KH_MW;1-30J;8D0_941_802;-;DIAG;-;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_5-POLIG_HYBRID 1,5-4,8MM;THKL.1B1;Koppelstelle an der Heckklappe links;KS_HKL2_1;1-56D;1J0_973_303;TAB_016_028_H;-;schwarz;Stk.;1;;;;
+3;Kupplungstraeger;KH_306;-;KH_306;1-56D;1K6_937_545_K;-;KS_HKL2_1;-;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_5-POLIG_HYBRID 1,5-4,8MM;THKL.1G1;Koppelstelle an der Heckklappe links;KS_HKL1_1;1-56D;1J0_973_303_A;TAB_016_028_H;-;braun;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_28-POLIG;TTVL.1A1;Koppelstelle an der Tür vorn links;KS_TVL;1-35J;1K0_937_722_D;-;-;schwarz;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_28-POLIG;TTVR.1A1;Koppelstelle an der Tür vorn rechts;KS_TVR;1-35A;1K0_937_722_D;-;-;schwarz;Stk.;1;;;;
+3;Verdrehschutz Leitungsstrangfest;VS_3;-;VS_3;1-19A;3C0_971_260_A;-;MB_3_1;-;Stk.;1;;;;
+3;Verdrehschutz;VS_9;-;VS_9;1-43B;3C0_971_260_C;-;MB_9_1;-;Stk.;1;;;;
+3;Verdrehschutz;VS_7;-;VS_7;1-40H;3C0_971_260_C;-;MB_7_1;-;Stk.;1;;;;
+3;Verdrehschutz;VS_12;-;VS_12;1-52H;3C0_971_260_C;-;MB_12_1;-;Stk.;1;;;;
+3;BUCHSENGEH_SCHWARZ_2_POL_KOD_A;XA.D2.1;Lesespule für Wegfahrsicherung;TRANS;1-44F;4B0_971_832;-;-;schwarz;Stk.;1;;;;
+3;ZSB Gehaeuse;XA.E595.2;Lenkstockkombinationsschalter;LSS_A;1-42F;5C0_971_975;-;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_1,5MM;XA.F321.1;Schalter für Feststellbremse;HBKS;1-46D;1J0_973_119;TAB_016_038_AJ;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.G17.1;Temperaturfühler für Außentemperatur;ATF;1-10D;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;ATF;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG;XA.G32.3;Geber für Kühlmittelmangelanzeige;KAB;1-8J;1K0_973_202;TAB_016_006_B;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;KAB;-;Stk.;X;;;;
+3;FLACHKONTAKTGEH_4POL_SCHWARZ;XA.J400.1;Steuergerät für Wischermotor;FWM;1-23H;8K0_973_724;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;FWM;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_73POL_KOD1;XA.J519.3;Bordnetzsteuergerät;BCM_A;1-29F;6R0_937_700;-;-;schwarz;Stk.;1;;;;
+3;Halter_Steuergeraet;KH_BCM;-;KH_BCM;1-29F;1S0_907_371_E;-;BCM_A;-;Stk.;1;;;;
+3;RELAISADAPTER_7POL_SCHWARZ;XA.J1125.1;Relais für Spannungsversorgung, Kl. 74;R_KL75;1-33H;4H0_937_528;TAB_010_213_S;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC25;-;RL_KL75;1-32H;4H0_951_253;-;R_KL75;-;Stk.;1;;;;
+3;BU_GEH_BLAU_Qmax8V32_POL_KOD_CD_AXIAL;XA.K.1;Schalttafeleinsatz;KI;1-36H;1J0_972_977_H;TAB_010_046_AN;-;blau;Stk.;1;;;;
+3;BUCHSENGEHAEUSE_2POL_KKMQS_SCHWARZ;XA.N334.1;Magnetventil für Zündschlüsselabzugsperre;SPST;1-43F;5Q0_973_115;-;-;schwarz;Stk.;1;;;;
+3;ZSB-Sicherungstraeger;XA.SC.1;Sicherungshalter C;SITR;1-30H;1S0_937_495_A;-;-;schwarz;Stk.;1;;;;
+3;Connector Shell;S_01;-;S_01;1-30H;N_107_381_01;-;SITR;-;Stk.;1;;;;
+3;Connector Shell;S_02;-;S_02;1-30H;N_107_381_01;-;SITR;-;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC8;-;S_SITR_50;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC9;-;S_SITR_49;1-29H;N_017_131_15;-;SITR;hellgruen;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC10;-;S_SITR_48;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC11;-;S_SITR_41;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC12;-;S_SITR_46;1-29H;N_017_131_15;-;SITR;hellgruen;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC13;-;S_SITR_36;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;;;;
+3;fuse Type_F 15A;ID_ACC14;-;S_SITR_17;1-29H;N_102_615_07;-;SITR;hellblau;Stk.;1;;;;
+3;fuse Type_F 15A;ID_ACC15;-;S_SITR_14;1-29H;N_102_615_07;-;SITR;hellblau;Stk.;1;;;;
+3;fuse Type_F 10A;ID_ACC16;-;S_SITR_25;1-29H;N_102_615_03;-;SITR;rot;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC17;-;S_SITR_29;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 10A;ID_ACC18;-;S_SITR_28;1-29H;N_102_615_03;-;SITR;rot;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC19;-;S_SITR_27;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC20;-;S_SITR_02;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC21;-;S_SITR_26;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC22;-;S_SITR_16;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC23;-;S_SITR_05;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC24;-;S_SITR_01;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC3;-;S_SITR_3_02;1-37E;N_017_131_15;-;SITR_3;hellgruen;Stk.;1;;;;
+3;fuse Type_C 15A;ID_ACC4;-;S_SITR_3_10;1-37E;N_017_131_12;-;SITR_3;hellblau;Stk.;1;;;;
+3;fuse Type_C 15A;ID_ACC5;-;S_SITR_3_09;1-36E;N_017_131_12;-;SITR_3;hellblau;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC6;-;S_SITR_3_03;1-37E;N_017_131_18;-;SITR_3;braun;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC7;-;S_SITR_3_12;1-37E;N_017_131_15;-;SITR_3;hellgruen;Stk.;1;;;;
+3;Halter_Sicherungstraeger;KH_SITR3;-;KH_SITR3;1-37E;1S0_915_346_A;-;SITR_3;-;Stk.;1;;;;
+3;Connector Shell;L_01;-;L_01;1-37E;12E_010_867_Q;-;SITR_3;-;Stk.;1;;;;
+3;STECKGEHAEUSE_3-POLIG;XA.U1.1;Zigarettenanzünder;ZIG;1-43E;1J0_919_321;-;-;natur;Stk.;1;;;;
+3;BUCHSENGEH_2POL_SCHWARZ;XA.V59.1;Frontscheibenwasch- und Heckscheibenwaschpumpe;WWP;1-8F;8P0_973_722;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;WWP;-;Stk.;X;;;;
+3;ZSB Gehaeuse;XB.E595.2;Lenkstockkombinationsschalter;LSS_B;1-44F;5C0_971_974;-;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_73POL_KOD2;XB.J519.3;Bordnetzsteuergerät;BCM_B;1-32G;6R0_937_700_A;-;-;natur;Stk.;1;;;;
+3;BUCHSENGEH_SCHWARZ_16_POL_KOD_I;XC.E595.2;Lenkstockkombinationsschalter;LSS_C;1-41E;1K0_972_928;TAB_016_006_BM;-;schwarz;Stk.;1;;;;
+3;Kastenkontaktgehaeuse Kod 1;XE.E595.2;Lenkstockkombinationsschalter;LSS_E;1-41E;6RA_971_975;-;-;schwarz;Stk.;1;;;;
+3;einzeln steckbare Kontakte;XJ.SA.4;Sicherungshalter A;HSB;1-19G;12E_937_548;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_842;-;HSB;-;Stk.;X;;;;
+3;fuse Type_C 7.5A;ID_ACC1;-;S_HSB_J3;1-19G;N_017_131_18;-;HSB;braun;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC2;-;S_HSB_J6;1-19G;N_017_131_15;-;HSB;hellgruen;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_6;-;CL_6;1-21B;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_8;-;CL_8;1-19A;3D0_971_838_N;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_10;-;CL_10;1-22C;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_AUSSENVERZAHNT_GEDICHTET;CL_11;-;CL_11;1-22C;3D0_971_818;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_12;-;CL_12;1-22D;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_13;-;CL_13;1-22E;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_20;-;CL_20;1-15H;3D0_971_838_N;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_21;-;CL_21;1-10F;4F2_721_663;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_22;-;CL_22;1-10G;3D0_971_838_N;-;-;-;Stk.;1;;;;
+3;CLIP;CL_23;-;CL_23;1-10H;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_29;-;CL_29;1-12H;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;KABELHALTER_SCHWARZ;CL_30;-;CL_30;1-24G;N_911_159_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_32;-;CL_32;1-19B;4F2_721_663;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_38;-;CL_38;1-22F;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKELKABELBINDER;CL_53;-;CL_53;1-17H;6Q0_971_838_C;-;-;-;Stk.;1;;;;
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_61;-;CL_61;1-10H;1C0_971_848;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_101;-;CL_101;1-36J;3D0_971_497_D;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_102;-;CL_102;1-38D;4F2_721_663;-;-;-;Stk.;1;;;;
+3;CLIP;CL_103;-;CL_103;1-40D;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;KABELFUEHRUNG;CL_107;-;CL_107;1-35D;6X0_971_615;-;-;-;Stk.;1;;;;
+3;SOCKELKABELBINDER;CL_108;-;CL_108;1-35C;6Q0_971_838_C;-;-;-;Stk.;1;;;;
+3;SOCKELKABELBINDER;CL_109;-;CL_109;1-35B;6Q0_971_838_C;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_111;-;CL_111;1-39F;3D0_971_838_M;-;-;-;Stk.;1;;;;
+3;KABELHALTER;CL_112;-;CL_112;1-35F;4B0_971_848;-;-;-;Stk.;1;;;;
+3;KABELBINDER_BOLZENBEFESTIGUNG;CL_118;-;CL_118;1-45D;1J0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_122;-;CL_122;1-35A;3D0_971_838_M;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_124;-;CL_124;1-40D;N_911_443_01;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_125;-;CL_125;1-42D;7L6_971_848;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_201;-;CL_201;1-37J;4F2_721_663;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_202;-;CL_202;1-41A;4F2_721_663;-;-;-;Stk.;1;;;;
+3;Kabelhalter;CL_301;-;CL_301;1-41F;5E0_971_847;-;-;-;Stk.;1;;;;
+3;Kabelhalter;CL_302;-;CL_302;1-41F;5E0_971_847;-;-;-;Stk.;1;;;;
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_303;-;CL_303;1-43F;1C0_971_848;-;-;-;Stk.;1;;;;
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_312;-;CL_312;1-42F;1C0_971_848;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_369;-;CL_369;1-56F;4F2_721_663;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_371;-;CL_371;1-56D;4F2_721_663;-;-;-;Stk.;1;;;;
+3;KABELHALTER;CL_375;-;CL_375;1-56E;1T0_971_930_F;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_376;-;CL_376;1-56G;3D0_971_497_D;-;-;-;Stk.;1;;;;
+3;KABELHALTER_SCHWARZ;CL_426;-;CL_426;1-53J;N_911_159_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_4.6X200;KB_17;-;KB_17;1-22F;N_909_377_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_C4.6X377;KB_18;-;KB_18;1-35G;N_106_622_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_23;-;KB_23;1-43F;N_106_232_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_24;-;KB_24;1-41F;N_106_232_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_25;-;KB_25;1-41F;N_106_232_01;-;-;-;Stk.;1;;;;
+3;Kabelfuehrung;KF_101;-;KF_101;1-41F;6C0_971_615;-;-;-;Stk.;1;;;;
+3;Kabelfuehrung;KF_403;-;KF_403;1-22F;1S0_971_445_G;-;-;-;Stk.;1;;;;
+3;Kabelkanal_ Stirnwand;KF_409;-;KF_409;1-12C;12E_971_341_A;-;-;-;Stk.;1;;;;
+3;Kabeltuelle;TU_09;-;TU_09;1-25F;1S0_971_915_A;-;-;-;Stk.;1;;;;
+3;Grommet;TU_10;-;TU_10;1-20H;1S0_971_841;-;-;-;Stk.;1;;;;
+3;Grommet;TU_11;-;TU_11;1-20B;1S0_971_841_A;-;-;-;Stk.;1;;;;
+3;Kombihalter;ZSB;-;CL_4;1-17B;N_106_854_01;-;-;-;Stk.;1;;;;
+3;ROHR M.KUPPLUNG;ZSB;-;KT_WL_H;1-9F;12E_955_663;-;-;-;Stk.;1;;;;
+3;ROHR M.KUPPLUNG;ZSB;-;KT_WL_V;1-9G;1S0_955_667_C;-;-;-;Stk.;1;;;;
+3;SICHERUNGSTRAEGER_12POL_SCHWARZ;ZSB;-;ZSB_SITR_3;1-37E;4F1_941_824;-;-;-;Stk.;1;;;;
+1;LTGS.ABS;;;;;;;;;;;;;;
+2;V1;12E_970_005_M;L0L+7W0;869 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_47_37_589.1;-;-;1-14E;N___106_172_01;-;-;-;Stk.;1;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_48_07_410.1;-;-;1-14E;N___106_172_01;-;-;-;Stk.;1;;;;
+3;Verdrehschutz Leitungsstrangfest;VS_5;-;VS_5;1-14E;3C0_971_260_A;-;MB_5_1;-;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_38-POLIG;XA.J981.1;Steuergerät für elektronisches Stabilisierungsprogramm (ESP);ESP_CU;1-15D;3C0_973_038_A;TAB_016_203_B;-;braun;Stk.;1;;;;
+3;KABELBINDER_4.6X200;KB_2;-;KB_2;1-15D;N_909_377_01;-;ESP_CU;-;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;ESP_CU;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;ESP_CU;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_842;-;ESP_CU;-;Stk.;X;;;;
+3;fuse Type_F 7.5A;ID_ACC28;-;S_SITR_20;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_C 10A;ID_ACC26;-;S_HSB_J4;1-18G;N_017_131_11;-;HSB;rot;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC27;-;S_HSB_J1;1-19G;N_017_131_15;-;HSB;hellgruen;Stk.;1;;;;
+3;Kabelfuehrung;KF_407;-;KF_407;1-15D;1S0_971_445_H;-;-;-;Stk.;1;;;;
+3;VERBINDUNGSLEITUNG;ZSB;-;KT_HL1;1-52G;1S0_927_904_E;-;-;-;Stk.;1;;;;
+3;VERBINDUNGSLEITUNG;ZSB;-;KT_HR1;1-55E;1S0_927_904_E;-;-;-;Stk.;1;;;;
+3;VERBINDUNGSLEITUNG;ZSB;-;KT_VL1;1-11E;1S0_927_903_E;-;-;-;Stk.;1;;;;
+3;VERBINDUNGSLEITUNG;ZSB;-;KT_VR2;1-26B;1S0_927_903_F;-;-;-;Stk.;1;;;;
+1;LTGS.AUSSENSPIEGEL;;;;;;;;;;;;;;
+2;V1;12E_970_010_D;L0L+6XD;71 (g);;;;;;;;;;;
+2;V2;12E_970_010_F;L0L+6XB;13 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;fuse Type_F 7.5A;ID_ACC29;-;S_SITR_30;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;-;;;
+1;LTGS.GRA;;;;;;;;;;;;;;
+2;V1;12E_970_011_B;L0L+8T2;25 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+1;LTGS.AIRBAG;;;;;;;;;;;;;;
+2;V1;12E_970_012_AB;L0L+4UF;1092 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHSTECKERGEH_3POL_KOD_I_SCHWARZ;TSABVL.1C1;Koppelstelle für Seitenairbag vorn links;KS_SA_VL;1-45H;4G0_972_783;-;-;gelb;Stk.;1;;;;
+3;FLACHSTECKERGEH_3POL_KOD_I_SCHWARZ;TSABVR.1C1;Koppelstelle für Seitenairbag vorn rechts;KS_SA_VR;1-46C;4G0_972_783;-;-;gelb;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_2-POLIG_1,5MM CODIERUNG I;XA.E24.4;Gurtschalter Fahrerseite;KS_GS_VL;1-45H;1J0_973_332_A;TAB_016_028_AB;-;schwarz;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_2-POLIG_1,5MM;XA.E25.6;Gurtschalter Beifahrerseite;KS_GS_VR;1-45C;1J0_973_332;-;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_6-POLIG;XA.E224.4;Schlüsselschalter für Abschaltung des Airbags Beifahrerseite;S_AIR;1-36B;7L0_972_776;-;-;gelb;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_3POL_SCHWARZ_KOD_1;XA.G128.6;Sitzbelegungssensor Beifahrerseite;KS_SBE_VR;1-45C;5K0_972_713;-;-;schwarz;Stk.;1;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_A_VAR_I;XA.G179.11;Crashsensor für Seitenairbag Fahrerseite [C-Säule];CSSA_HL;1-50H;6R0_973_323;TAB_016_006_AM;-;gelb_sw;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;CSSA_HL;-;Stk.;X;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_A_VAR_I;XA.G179.15;Crashsensor für Seitenairbag Fahrerseite [B-Säule];SCSL;1-46G;6R0_973_323;TAB_016_006_AM;-;gelb_sw;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;SCSL;-;Stk.;X;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_A_VAR_I;XA.G180.10;Crashsensor für Seitenairbag Beifahrerseite [B-Säule];SCSR;1-48B;6R0_973_323;TAB_016_006_AM;-;gelb_sw;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;SCSR;-;Stk.;X;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_A_VAR_I;XA.G180.11;Crashsensor für Seitenairbag Beifahrerseite [C-Säule];CSSA_HR;1-52A;6R0_973_323;TAB_016_006_AM;-;gelb_sw;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;CSSA_HR;-;Stk.;X;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_B_VAR_I;XA.G283.6;Crashsensor für Frontairbag Fahrerseite;FS_1;1-8H;5K0_973_323;TAB_016_006_AM;-;gelb_br;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;FS_1;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_50_POLIG;XA.J234.15;Steuergerät für Airbag;AIR_CU_E_1;1-41C;1K0_973_206;-;-;gelb;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_842;-;AIR_CU_E_1;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_15MM_4POL;XA.K145.1;Kontrollleuchte für Airbag Beifahrerseite aus;AIRL;1-47D;3B0_972_722;TAB_016_038_A;-;schwarz;Stk.;1;;;;
+3;ZUENDPILLENSTECKER_2POL_KOD_I_GELB;XA.N251.1;Zünder für Kopfairbag Fahrerseite;ABKL;1-45E;8K0_971_613;TAB_010_329_CG;-;gelb_sw;Stk.;1;;;;
+3;ZUENDPILLENSTECKER_2POL_KOD_I_GELB;XA.N252.1;Zünder für Kopfairbag Beifahrerseite;ABKR;1-53F;8K0_971_613;TAB_010_329_CG;-;gelb_sw;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC30;-;S_SITR_09;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;Kabelhalter;CL_25;-;CL_25;1-9H;5E0_971_847;-;-;-;Stk.;1;;;;
+3;KABELBINDER;CL_211;-;CL_211;1-46H;8D0_971_850_F;-;-;-;Stk.;1;;;;
+3;KABELBINDER;CL_212;-;CL_212;1-48B;8D0_971_850_F;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_238;-;CL_238;1-43H;N_911_443_02;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_239;-;CL_239;1-44H;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_247;-;CL_247;1-46B;N_911_443_01;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_248;-;CL_248;1-46B;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_252;-;CL_252;1-48C;4F2_721_663;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_350;-;CL_350;1-44F;4F2_721_663;-;-;-;Stk.;1;;;;
+3;CLIP;CL_351;-;CL_351;1-45F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;CLIP;CL_352;-;CL_352;1-45F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_353;-;CL_353;1-45F;N_911_443_01;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_354;-;CL_354;1-45E;N_911_443_01;-;-;-;Stk.;1;;;;
+3;CLIP;CL_355;-;CL_355;1-46F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;CLIP;CL_356;-;CL_356;1-47F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;CLIP;CL_361;-;CL_361;1-49F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;CLIP;CL_362;-;CL_362;1-50F;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_363;-;CL_363;1-52F;N_911_443_01;-;-;-;Stk.;1;;;;
+3;KABELCLIP;CL_364;-;CL_364;1-53F;N_911_443_01;-;-;-;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_9;-;KB_9;1-41C;N_106_232_01;-;-;-;Stk.;1;;;;
+3;AIRBAG.LTGS;ZSB;-;KT_1_121;1-37B;1S1_971_581_A;-;-;-;Stk.;1;;;;
+3;LTGS_GURTSTRAMMER;ZSB;-;KT_4_121;1-48C;1S1_971_259_AA;-;-;-;Stk.;1;;;;
+3;LTGS_GURTSTRAMMER;ZSB;-;KT_5_121;1-47G;1S1_971_259_S;-;-;-;Stk.;1;;;;
+1;LTGS.RADIO;;;;;;;;;;;;;;
+2;V1;12E_970_016_T;L0L+8ZB/8ZG+QV0+I6V;252 (g);;;;;;;;;;;
+2;V2;12E_970_016_AA;L0L+8ZB/8ZG+QV3+I6V;365 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;Verdrehschutz;VS_8;-;VS_8;1-42D;3C0_971_260_C;-;MB_8_1;-;Stk.;1;1;;;
+3;HF_KONTAKTGEHAEUSE_CREMEWEISS_2POL_KOD_B;XA.RX5.1._2;Dachantenne;ANT_AMFM;1-56F;6Q0_035_576_A;TAB_016_396_A;-;cremeweiss;Stk.;1;1;;;
+3;fuse Type_C 20A;ID_ACC31;-;S_SITR_38;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;1;;;
+3;BUCHSENGEHAEUSE_8_UND_44-POL;XD.R.5;Radio [MIB2 Entry];RAD_D1;1-38B;8X0_035_444;-;-;schwarz;Stk.;1;1;;;
+3;HF_KONTAKTGEHAEUSE_SCHWARZ_2-POL_KOD_A;XD.RX5.1._2;Dachantenne;ANT_DAB_2;1-58F;6Q0_035_576;TAB_016_396_A;-;schwarz;Stk.;-;1;;;
+3;FLACHKONTAKTGEHAEUSE_12POL;XE.R.5;Radio [MIB2 Entry];RAD_E2;1-37C;8X0_035_447_B;-;-;grau;Stk.;1;1;;;
+3;HF_KONTAKTGEHAEUSE_SCHWARZ_2-POL_KOD_A;XF.R.5._1;Radio [MIB2 Entry];RAD_F_1;1-39F;6Q0_035_576;TAB_016_396_A;-;schwarz;Stk.;-;1;;;
+3;HF_KONTAKTGEHAEUSE_CREMEWEISS_4POL_COD_B;XG.R.5._1;Radio [MIB2 Entry];RAD_G_2;1-37B;6Q0_035_608_A;TAB_016_396_B;-;cremeweiss;Stk.;1;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_365;-;CL_365;1-57C;4F2_721_663;-;-;-;Stk.;1;1;;;
+3;CLIP;CL_367;-;CL_367;1-57E;1H0_971_848_L;-;-;-;Stk.;1;1;;;
+3;CLIP;CL_368;-;CL_368;1-57F;1H0_971_848_L;-;-;-;Stk.;1;1;;;
+3;KABELHALTER;CL_372;-;CL_372;1-57C;1T0_971_930_F;-;-;-;Stk.;1;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_373;-;CL_373;1-57D;4F2_721_663;-;-;-;Stk.;1;1;;;
+1;LTGS.ZV;;;;;;;;;;;;;;
+2;V1;12E_970_023_H;L0L+4K3;416 (g);;;;;;;;;;;
+2;V2;12E_970_023_J;L0L+4I2;342 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;FLACHSTECKERGEHAEUSE_28-POLIG;TTHL.1A1;Koppelstelle an der Tür hinten links;KS_THL;1-48H;5N0_937_722_A;-;-;grau;Stk.;1;1;;;
+3;FLACHSTECKERGEHAEUSE_28-POLIG;TTHR.1A1;Koppelstelle an der Tür hinten rechts;KS_THR;1-48D;5N0_937_722_A;-;-;grau;Stk.;1;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_253;-;CL_253;1-47H;4F2_721_663;-;-;-;Stk.;1;1;;;
+1;LTGS.FENSTERHEBER;;;;;;;;;;;;;;
+2;V1;12E_970_024_F;L0L+4R1;248 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;fuse Type_C 30A;ID_ACC32;-;S_SITR_51;1-29H;N_017_131_15;-;SITR;hellgruen;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC33;-;S_SITR_47;1-29H;N_017_131_15;-;SITR;hellgruen;Stk.;1;;;;
+1;LTGS.HEIZUNG;;;;;;;;;;;;;;
+2;V1;12E_970_030_C;L0L;414 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;STECKHUELSENGEHAEUSE_3POL;XA.G65.1;Hochdruckgeber;KDS_E;1-17E;8K0_973_703;TAB_010_329_CH;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KDS_E;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_4POL_SCHWARZ_KOD_1;XA.G107.1;Fotosensor für Sonneneinstrahlung;SOAL_E;1-34D;1K0_972_704_C;-;-;schwarz;Stk.;1;;;;
+3;BUCHSENGEHAEUSE_4POL;XA.J126.1;Steuergerät für Frischluftgebläse;GR_E;1-34B;4H0_972_704;-;-;schwarz;Stk.;1;;;;
+3;Relaisadapter;XA.J254.1;Relais für Climatronic;R_KLIMA_E;1-34H;4H0_937_527;TAB_010_213_R;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC38;-;RL_KLIMA_E;1-34J;4H0_951_253_A;-;R_KLIMA_E;-;Stk.;1;;;;
+3;Relaisadapter;XA.J323.1;Relais für Gebläse;R_GEBL_E;1-35H;4H0_937_527;TAB_010_213_R;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC37;-;RL_GEBL_E;1-35H;4H0_951_253_A;-;R_GEBL_E;-;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC34;-;S_SITR_3_04;1-36E;N_017_131_13;-;SITR_3;gelb;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC35;-;S_SITR_3_07;1-37E;N_017_131_18;-;SITR_3;braun;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC36;-;S_SITR_3_05;1-37E;N_017_131_18;-;SITR_3;braun;Stk.;1;;;;
+3;FLACHKONTAKTSTECKER_16POL;XC.J255.2;Steuergerät für Climatronic;KLBT_E;1-41C;443_972_805;TAB_010_046_G;-;schwarz;Stk.;1;;;;
+3;ABDECKKAPPE_16POL;WK_KLBT;-;WK_KLBT;1-40C;443_972_807;-;KLBT_E;-;Stk.;1;;;;
+3;CLIP;CL_18;-;CL_18;1-15E;1H0_971_848_L;-;-;-;Stk.;1;;;;
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_28;-;CL_28;1-15G;1C0_971_848_C;-;-;-;Stk.;1;;;;
+1;LTGS.SITZHEIZUNG;;;;;;;;;;;;;;
+2;V1;1ST_970_036;L0L+4A3+4GQ;297 (g);;;;;;;;;;;
+2;V2;12E_970_036_K;L0L+4A3+4GX;307 (g);;;;;;;;;;;
+2;V3;12E_970_036_L;L0L+4A0;49 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;V3;;
+3;BU_GEH_16POL_MQS_KOD_A_BR_GERADE_VERTIKAL;XA.EX22.2;Schaltermodul Schalttafel Mitte;SML_E;1-39C;8E0_972_416_A;TAB_010_046_AQ;-;braun;Stk.;-;1;-;;
+3;KABELBINDER_2.5X95;KB_15;-;KB_15;1-39C;N_106_232_01;-;SML_E;-;Stk.;-;1;1;;
+3;BU_GEH_16POL_MQS_KOD_A_BR_GERADE_VERTIKAL;XA.EX22.4;Schaltermodul Schalttafel Mitte [links];SML_E_SK;1-40C;8E0_972_416_A;TAB_010_046_AQ;-;braun;Stk.;1;-;-;;
+3;KABELBINDER_2.5X95;KB_16;-;KB_16;1-40C;N_106_232_01;-;SML_E_SK;-;Stk.;1;-;-;;
+3;BUCHSENGEH_POL_16_KOD_B_SCHWARZ;XA.EX35.6_XA.EX35.5;Schaltermodul 2 Schalttafel Mitte [(m.SitzHz)];SMR;1-33C;8W0_972_416_A;TAB_010_046_DM;-;schwarz;Stk.;1;1;1;;
+3;FLACHKONTAKTGEHAEUSE_16-POLIG_1,5/2,8MM;XA.J774.1;Steuergerät für beheizbare Vordersitze;SHRE;1-32D;6Q0_937_713;-;-;schwarz;Stk.;1;1;-;;
+3;fuse Type_C 20A;ID_ACC39;-;S_SITR_43;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;1;-;;
+3;FLACHSTECKERGEHAEUSE_2POL_1.5MM_CODIERUNG_IV;XA.Z45.1;beheizbarer Sitz vorn links;KSL_SH;1-45H;3C0_973_332_B;TAB_016_028_AB;-;rot;Stk.;1;1;-;;
+3;FLACHSTECKERGEHAEUSE_2POL_1.5MM_CODIERUNG_IV;XA.Z46.1;beheizbarer Sitz vorn rechts;KSR_SH;1-46C;3C0_973_332_B;TAB_016_028_AB;-;rot;Stk.;1;1;-;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_116;-;CL_116;1-34C;4F2_721_663;-;-;-;Stk.;1;1;1;;
+3;KABELBINDER_2.5X95;KB_14;-;KB_14;1-33C;N_106_232_01;-;-;-;Stk.;1;1;1;;
+1;LTGS.KUEHLERLUEFT.;;;;;;;;;;;;;;
+2;V1;12E_970_039_B;L0L;176 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_51_09_508.1;-;-;1-12H;N___106_172_01;-;-;-;Stk.;1;;;;
+3;Verdrehschutz Leitungsstrangfest;VS_6;-;VS_6;1-11G;3C0_971_260_A;-;MB_6_1;-;Stk.;1;;;;
+3;FLACHKONTAKTGEH_4_POL;XA.V7.4;Kühlerlüfter;ELU_E;1-10E;1K0_906_234_B;TAB_016_006_CS;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;1J0_972_844;-;ELU_E;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_842;-;ELU_E;-;Stk.;X;;;;
+3;KABELHALTER;CL_34;-;CL_34;1-10F;1T0_971_930_D;-;-;-;Stk.;1;;;;
+1;LTGS.SCHEINWERFER;;;;;;;;;;;;;;
+2;V1;1ST_970_043;L0L;1065 (g);;;;;;;;;;;
+2;V2;12E_970_043_L;L0L;987 (g);;;;;;;;;;;
+2;V3;12S_970_043;L0L+8WA+8K1;977 (g);;;;;;;;;;;
+2;V4;12S_970_043_A;L0L+8WB+8K3;1120 (g);;;;;;;;;;;
+2;V5;12S_970_043_B;L0L+8WA+8K9;1041 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;V3;V4;V5
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_50_09_905.1;-;-;1-11G;N___106_172_01;-;-;-;Stk.;1;1;1;1;1
+3;PP-Wellschlauch Gr=10.0 D(i)=8.3 D(a)=13.4;N___107_326_01-2018_11_14-10_17_51_606.1;-;-;1-16B;N___107_326_01;-;-;-;mm;230;0;0;0;0
+3;PP-Wellschlauch Gr=10.0 D(i)=8.3 D(a)=13.4;N___107_326_01-2018_11_14-10_26_24_936.1;-;-;1-14B;N___107_326_01;-;-;-;mm;0;0;0;260;0
+3;FLACHKONTAKTGEHAEUSE_10POL;XA.E1.3;Lichtschalter;LDS_1;1-37F;6R0_972_930;-;-;schwarz;Stk.;1;1;1;1;1
+3;FLACHKONTAKTGEHAEUSE_6-POLIG_2,8MM;XA.E102.1;Einsteller für Leuchtweitenregelung;LWR;1-38E;6X0_972_926;-;-;schwarz;Stk.;1;1;1;1;1
+3;RELAISADAPTER_7POL_SCHWARZ;XA.J329.1;Relais für Spannungsversorgung der Kl. 15;R_KL15;1-32J;4H0_937_528;TAB_010_213_S;-;schwarz;Stk.;1;1;1;1;1
+3;Relais;ID_ACC45;-;RL_KL15;1-31J;4H0_951_253;-;R_KL15;-;Stk.;1;1;1;1;1
+3;STECKHUELSENGEHAEUSE_2POL;XA.L22.1;Lampe für Nebelscheinwerfer links;NSW_L_SE;1-8F;7H0_941_165;-;-;schwarz;Stk.;-;-;-;1;-
+4;Blindstopfen;-;-;-;-;UNI_BLIND_SEAL_280;-;NSW_L_SE;-;Stk.;-;-;-;X;-
+3;STECKHUELSENGEH_LAMPENFASSUNG_H11H8;XA.L22.2;Lampe für Nebelscheinwerfer links;NSW_L_SK;1-9E;3D0_941_165_A;-;-;schwarz;Stk.;1;-;-;-;-
+4;Blindstopfen;-;-;-;-;UNI_BLIND_SEAL_280;-;NSW_L_SK;-;Stk.;X;-;-;-;-
+3;STECKHUELSENGEHAEUSE_2POL;XA.L23.1;Lampe für Nebelscheinwerfer rechts;NSW_R_SE;1-13B;7H0_941_165;-;-;schwarz;Stk.;-;-;-;1;-
+4;Blindstopfen;-;-;-;-;UNI_BLIND_SEAL_280;-;NSW_R_SE;-;Stk.;-;-;-;X;-
+3;STECKHUELSENGEH_LAMPENFASSUNG_H11H8;XA.L23.2;Lampe für Nebelscheinwerfer rechts;NSW_R_SK;1-16A;3D0_941_165_A;-;-;schwarz;Stk.;1;-;-;-;-
+4;Blindstopfen;-;-;-;-;UNI_BLIND_SEAL_280;-;NSW_R_SK;-;Stk.;X;-;-;-;-
+3;FLACHSTECKERGEHAEUSE_3POL_2.8MM;XA.L174.3;Lampe für Tagesfahrlicht links;TFL_L_SE;1-9E;1J0_973_723;TAB_016_006_B;-;schwarz;Stk.;-;-;-;-;1
+3;SCHUTZKAPPE WS4.5 90GRAD QUER 3POL;AK_3;-;AK_3;1-9E;1C0_971_921;-;TFL_L_SE;-;Stk.;-;-;-;-;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;TFL_L_SE;-;Stk.;-;-;-;-;X
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.L174.4;Lampe für Tagesfahrlicht links;TFL1_L;1-8F;8L0_973_703;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_840;-;TFL1_L;-;Stk.;-;X;-;-;-
+3;FLACHSTECKERGEHAEUSE_3POL_2.8MM;XA.L175.3;Lampe für Tagesfahrlicht rechts;TFL_R_SE;1-15A;1J0_973_723;TAB_016_006_B;-;schwarz;Stk.;-;-;-;-;1
+3;SCHUTZKAPPE WS4.5 90GRAD QUER 3POL;AK_4;-;AK_4;1-15A;1C0_971_921;-;TFL_R_SE;-;Stk.;-;-;-;-;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;TFL_R_SE;-;Stk.;-;-;-;-;X
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.L175.4;Lampe für Tagesfahrlicht rechts;TFL1_R;1-16A;8L0_973_703;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_840;-;TFL1_R;-;Stk.;-;X;-;-;-
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.MX1.1;Scheinwerfer vorn links;SWL_A_SE;1-18G;8L0_973_703;-;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_840;-;SWL_A_SE;-;Stk.;-;-;X;X;X
+3;RD-FLACHKONTAKTGEHAEUSE_10-POLIG_2,8MM;XA.MX1.4;Scheinwerfer vorn links;SWL_SK;1-19J;1J0_973_735;TAB_016_006_C;-;schwarz;Stk.;1;-;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWL_SK;-;Stk.;X;-;-;-;-
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.MX1.5;Scheinwerfer vorn links;SWL_A;1-18H;8L0_973_703;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_840;-;SWL_A;-;Stk.;-;X;-;-;-
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.MX2.1;Scheinwerfer vorn rechts;SWR_A_SE;1-17B;8L0_973_703;-;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_840;-;SWR_A_SE;-;Stk.;-;-;X;X;X
+3;RD-FLACHKONTAKTGEHAEUSE_10-POLIG_2,8MM;XA.MX2.4;Scheinwerfer vorn rechts;SWR_SK;1-20C;1J0_973_735;TAB_016_006_C;-;schwarz;Stk.;1;-;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWR_SK;-;Stk.;X;-;-;-;-
+3;FLACHKONTAKTGEHAEUSE_3_POLIG_1.5MM;XA.MX2.5;Scheinwerfer vorn rechts;SWR_A;1-19C;8L0_973_703;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_840;-;SWR_A;-;Stk.;-;X;-;-;-
+3;QKK Gehaeuse_ Kod_1;XA.MX3.1_XA.MX3.2;Schlussleuchte links;SBBRL;1-58J;1S0_972_706;TAB_016_038_AQ;-;schwarz;Stk.;1;1;1;1;1
+3;QKK Gehaeuse_ Kod_1;XA.MX4.1_XA.MX4.2;Schlussleuchte rechts;SBBRR;1-60A;1S0_972_706;TAB_016_038_AQ;-;schwarz;Stk.;1;1;1;1;1
+3;fuse Type_C 10A;ID_ACC40;-;S_SITR_45;1-29H;N_017_131_11;-;SITR;rot;Stk.;1;1;1;1;1
+3;fuse Type_F 15A;ID_ACC41;-;S_SITR_32;1-29H;N_102_615_07;-;SITR;hellblau;Stk.;1;1;1;1;1
+3;fuse Type_F 15A;ID_ACC42;-;S_SITR_24;1-29H;N_102_615_07;-;SITR;hellblau;Stk.;1;1;1;1;1
+3;fuse Type_F 10A;ID_ACC43;-;S_SITR_15;1-29H;N_102_615_03;-;SITR;rot;Stk.;1;1;1;1;1
+3;fuse Type_F 7.5A;ID_ACC44;-;S_SITR_06;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;1;1;1;1
+3;BUCHSENGEH_2POL_SCHWARZ;XB.MX1.1;Scheinwerfer vorn links;SWL_B_SE;1-12H;8P0_973_722;-;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWL_B_SE;-;Stk.;-;-;X;X;X
+3;BUCHSENGEH_2POL_SCHWARZ;XB.MX1.5;Scheinwerfer vorn links;SWL_B;1-12H;8P0_973_722;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWL_B;-;Stk.;-;X;-;-;-
+3;BUCHSENGEH_2POL_SCHWARZ;XB.MX2.1;Scheinwerfer vorn rechts;SWR_B_SE;1-18C;8P0_973_722;-;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWR_B_SE;-;Stk.;-;-;X;X;X
+3;BUCHSENGEH_2POL_SCHWARZ;XB.MX2.5;Scheinwerfer vorn rechts;SWR_B;1-18B;8P0_973_722;-;-;schwarz;Stk.;-;1;-;-;-
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWR_B;-;Stk.;-;X;-;-;-
+3;EMER.MKT.;XC.MX1.1;Scheinwerfer vorn links;SWL_C_SE;1-19J;161_941_165;-;-;natur;Stk.;-;-;1;1;1
+3;EMER.MKT.;XC.MX1.5;Scheinwerfer vorn links;SWL_C;1-18J;161_941_165;-;-;natur;Stk.;-;1;-;-;-
+3;EMER.MKT.;XC.MX2.1;Scheinwerfer vorn rechts;SWR_C_SE;1-20B;161_941_165;-;-;natur;Stk.;-;-;1;1;1
+3;EMER.MKT.;XC.MX2.5;Scheinwerfer vorn rechts;SWR_C;1-19B;161_941_165;-;-;natur;Stk.;-;1;-;-;-
+3;FLACHSTECKERGEHAEUSE_3POL_2.8MM;XD.MX1.1;Scheinwerfer vorn links;SWL_D_SE;1-11H;1J0_973_723;TAB_016_006_B;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWL_D_SE;-;Stk.;-;-;X;X;X
+3;FLACHSTECKERGEHAEUSE_3POL_2.8MM;XD.MX2.1;Scheinwerfer vorn rechts;SWR_D_SE;1-17C;1J0_973_723;TAB_016_006_B;-;schwarz;Stk.;-;-;1;1;1
+4;Blindstopfen;-;-;-;-;357_972_841;-;SWR_D_SE;-;Stk.;-;-;X;X;X
+3;SOCKEL_KABELBINDER_LKC2;CL_7;-;CL_7;1-22B;3D0_971_838_A;-;-;-;Stk.;1;1;1;1;1
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_42;-;CL_42;1-18B;4F2_721_663;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_236;-;CL_236;1-41J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_237;-;CL_237;1-43J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;KABELCLIP;CL_240;-;CL_240;1-44J;N_911_443_02;-;-;-;Stk.;1;1;1;1;1
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_241;-;CL_241;1-45J;1C0_971_848;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_242;-;CL_242;1-47J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;Kabelhalter;CL_244;-;CL_244;1-43A;1P0_971_848_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_245;-;CL_245;1-44A;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_246;-;CL_246;1-45A;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;LEITUNGSCLIP LOCHBEFESTIGUNG 6,5;CL_249;-;CL_249;1-46A;1C0_971_848;-;-;-;Stk.;1;1;1;1;1
+3;CLIP;CL_250;-;CL_250;1-47A;6Y0_972_596;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_251;-;CL_251;1-49A;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_402;-;CL_402;1-48J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_405;-;CL_405;1-51J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_406;-;CL_406;1-52J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;KABELFUEHRUNG;CL_419;-;CL_419;1-54A;3A0_971_615_D;-;-;-;Stk.;1;1;1;1;1
+3;KABELFUEHRUNG;CL_420;-;CL_420;1-55A;3A0_971_615_D;-;-;-;Stk.;1;1;1;1;1
+3;KABELFUEHRUNG;CL_421;-;CL_421;1-56A;3A0_971_615_D;-;-;-;Stk.;1;1;1;1;1
+3;KABELFUEHRUNG;CL_422;-;CL_422;1-58A;3A0_971_615_D;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_430;-;CL_430;1-50J;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;KABELFUEHRUNG;CL_431;-;CL_431;1-53A;3A0_971_615_D;-;-;-;Stk.;1;1;1;1;1
+3;KABELHALTER;CL_433;-;CL_433;1-57J;1P0_971_848_F;-;-;-;Stk.;1;1;1;1;1
+3;SOCKELKABELBINDER;CL_435;-;CL_435;1-50A;6Q0_971_838_C;-;-;-;Stk.;1;1;1;1;1
+3;KABELHALTER;CL_436;-;CL_436;1-51A;1P0_971_848_F;-;-;-;Stk.;1;1;1;1;1
+3;KABELHALTER;CL_437;-;CL_437;1-49J;1P0_971_848_F;-;-;-;Stk.;1;1;1;1;1
+1;LTGS.DIAGNOSE;;;;;;;;;;;;;;
+2;V1;12E_970_070_K;L0L+S34;170 (g);;;;;;;;;;;
+2;V2;12E_970_070_P;L0L+S32;948 (g);;;;;;;;;;;
+2;V3;12E_970_070_Q;L0L+S33;878 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;V3;;
+3;SICHERUNGSADAPTER 3F;XA.SE.1;Sicherungshalter E;SITR_2;1-33J;6Q0_937_617_B;-;-;NotDefined;Stk.;1;1;1;;
+3;fuse Type_C 10A;ID_ACC46;-;S_SITR_2_03;1-33J;N_017_131_11;-;SITR_2;rot;Stk.;1;1;1;;
+3;fuse Type_C 10A;ID_ACC47;-;S_SITR_2_01;1-33J;N_017_131_11;-;SITR_2;rot;Stk.;1;1;1;;
+3;FLACHKONTAKTGEH_2POL_SCHWARZ;XA.U4.1;Steckdose für Funkgerät;KS_FUNK;1-32B;1J0_972_923;TAB_016_038_P;-;schwarz;Stk.;-;1;1;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.2;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIAG1;1-31B;6X0_973_717;TAB_016_006_A;-;schwarz;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIAG1;-;Stk.;-;X;X;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.3;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIAG2;1-31B;6X0_973_717_A;TAB_016_006_A;-;braun;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIAG2;-;Stk.;-;X;X;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.4;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA3A;1-31A;6X0_973_717;TAB_016_006_A;-;schwarz;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA3A;-;Stk.;-;X;X;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.5;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA4A;1-31B;6X0_973_717_A;TAB_016_006_A;-;braun;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA4A;-;Stk.;-;X;X;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.6;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA3C;1-22A;6X0_973_717;TAB_016_006_A;-;schwarz;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA3C;-;Stk.;-;X;X;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;XA.U31.7;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA4C;1-22B;6X0_973_717_A;TAB_016_006_A;-;braun;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA4C;-;Stk.;-;X;X;;
+3;BU_GEH_SCHWARZ_Qmax8V32_POL_KOD_DBE_GERADE;XA.U31.8;Anschluß für Diagnose;KS_DIAG5;1-40B;1J0_972_977;TAB_010_046_AN;-;schwarz;Stk.;1;1;-;;
+3;RD-FLACHSTECKERGEHAEUSE 14-POLIG 1,5MM;XA.U31.9;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA3B;1-28A;6X0_973_817;TAB_016_007_A;-;schwarz;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA3B;-;Stk.;-;X;X;;
+3;RD-FLACHSTECKERGEHAEUSE 14-POLIG 1,5MM;XA.U31.10;Anschluß für Diagnose [Für Prototypen einschliesslich PVS];KS_DIA4B;1-28B;6X0_973_817_A;TAB_016_007_A;-;braun;Stk.;-;1;1;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_DIA4B;-;Stk.;-;X;X;;
+1;LTGS.LAUTSPRECHER;;;;;;;;;;;;;;
+2;V1;12E_970_076_H;L0L+8RD;103 (g);;;;;;;;;;;
+2;V2;12E_970_076_J;L0L+8RL;317 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_FARBE_SCHWARZ;XA.R20.1;Hochtonlautsprecher vorn links;LSP_VL;1-42G;1J0_971_972;TAB_016_038_M;-;schwarz;Stk.;-;1;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_FARBE_SCHWARZ;XA.R22.1;Hochtonlautsprecher vorn rechts;LSP_VR;1-32B;1J0_971_972;TAB_016_038_M;-;schwarz;Stk.;-;1;;;
+3;BUCHSENGEHAEUSE_8-POL;XA.R.5;Radio [MIB2 Entry];RAD_A;1-37C;3B7_035_447;-;-;braun;Stk.;1;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_114;-;CL_114;1-34B;4F2_721_663;-;-;-;Stk.;-;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_120;-;CL_120;1-33B;4F2_721_663;-;-;-;Stk.;-;1;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_253;-;CL_253;1-47H;4F2_721_663;-;-;-;Stk.;-;1;;;
+1;LTGS.ARMATUREN;;;;;;;;;;;;;;
+2;V1;12E_970_090;L0L+QQ3;28 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_1,5MM;XA.W74.2;Lichtleiter für Ambientebeleuchtung der Mittelkonsole vorn;AMB_AB_M;1-38D;1J0_973_119;TAB_016_038_AJ;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_1,5MM;XA.W85.2;Lichtleiter für Ambientebeleuchtung Beifahrerseite;AMB_AB_BF;1-35B;1J0_973_119;TAB_016_038_AJ;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_1,5MM;XA.W96.2;Lichtleiter für Ambientebeleuchtung Fahrerseite;AMB_AB_FS;1-38E;1J0_973_119;TAB_016_038_AJ;-;schwarz;Stk.;1;;;;
+1;LTGS.GURTWARNUNG;;;;;;;;;;;;;;
+2;V1;12E_970_097_F;L0L+3ZU+9P4;266 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;STIFTGEH_POL_4_KOD_D_BLAU;TSABHL.1A1;Koppelstelle für Seitenairbag hinten links;KS_SBRH;1-53D;8K0_972_994_C;TAB_010_046_CR;-;blau;Stk.;1;;;;
+3;Steckeraufnahme;SF_403;-;SF_403;1-53D;WHT_008_062;-;KS_SBRH;-;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_2-POLIG_1,5MM;XA.E258.4;Gurtschalter hinten Fahrerseite;ESHL;1-54C;1J0_973_332;-;-;schwarz;Stk.;1;;;;
+3;Steckerhalter;SF_401;-;SF_401;1-54C;N_906_851_01;-;ESHL;-;Stk.;1;;;;
+3;FLACHSTECKERGEHAEUSE_2-POLIG_1,5MM;XA.E259.4;Gurtschalter hinten Beifahrerseite;ESHR;1-52C;1J0_973_332;-;-;schwarz;Stk.;1;;;;
+3;Steckerhalter;SF_402;-;SF_402;1-52C;N_906_851_01;-;ESHR;-;Stk.;1;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_W;XA.N196.1;Zünder für Gurtstraffer hinten Fahrerseite;GSTR_HL;1-57G;4N0_972_562;010_329_EH;-;gelb_hr;Stk.;1;;;;
+3;BUCHSENGEH_GELB_2POL_KOD_W;XA.N197.1;Zünder für Gurtstraffer hinten Beifahrerseite;GSTR_HR;1-60B;4N0_972_562;010_329_EH;-;gelb_hr;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;KB_35;-;KB_35;1-60B;3D0_971_838_N;-;-;-;Stk.;1;;;;
+1;LTGS.MFA;;;;;;;;;;;;;;
+2;V1;1ST_970_099;L0L+1ME/2ZB/2ZH;18 (g);;;;;;;;;;;
+2;V2;12E_970_099_B;L0L+1MH/1ME;14 (g);;;;;;;;;;;
+2;V3;12E_970_099_D;L0L+2ZB/2ZH;4 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;V3;;
+1;LTGS.INNENLEUCHTE;;;;;;;;;;;;;;
+2;V1;12E_970_113_AD;L0L+3FA+9E1;47 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEH_3POL_SCHWARZ;XA.W1.1._1;Innenleuchte vorn;INL_1;1-47G;893_971_633;TAB_010_329;-;schwarz;Stk.;1;;;;
+1;LTGS.KOFFERRAUMLEU;;;;;;;;;;;;;;
+2;V1;12E_970_125_N;L0L+9E1;71 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_FARBE_SCHWARZ;XA.W3.2;Kofferraumleuchte;KFL;1-58G;1J0_971_972;TAB_016_038_M;-;schwarz;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_443;-;CL_443;1-58H;3D0_971_838_L;-;-;-;Stk.;1;;;;
+1;LTGS.EINPARKHILFE;;;;;;;;;;;;;;
+2;V1;12E_970_161_C;L0L+7X1+8TC;130 (g);;;;;;;;;;;
+2;V2;12E_970_161_E;L0L+7X0+8TC;17 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;PP-Wellschlauch Gr=7.5 D(i)=5.7 D(a)=10.5;N___107_325_01-2018_11_14-12_37_23_371.1;-;-;1-62H;N___107_325_01;-;-;-;mm;233;233;;;
+3;STECKHUELSENGEH_8POL_SCHWARZ_KOD_I;THRR.1A1;Koppelstelle im Heckraum rechts;KS_PDC_1;1-63H;4H0_973_714;TAB_010_329_CJ;-;schwarz;Stk.;1;1;;;
+3;SCHUTZKAPPE WS7.5 GERADE 8POL 2REIHIG;SK_PDC_1;-;SK_PDC_1;1-63H;1J0_971_921_L;-;KS_PDC_1;-;Stk.;1;1;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_PDC_1;-;Stk.;X;X;;;
+3;BUCHSENGEHAEUSE_2POL_MQS_SCHWARZ;XA.H15.1;Warnsummer für Einparkhilfe hinten;LSP_PDC;1-55G;4B0_972_623;TAB_010_046_AD;-;schwarz;Stk.;1;-;;;
+3;BU_GEH_16POL_MQS_KOD_A_BR_45GRAD_HORIZONTAL;XA.J446.3;Steuergerät für Einparkhilfe;PDC_A;1-54H;8E0_972_416;TAB_010_046_AQ;-;braun;Stk.;1;-;;;
+3;fuse Type_F 7.5A;ID_ACC48;-;S_SITR_10;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;-;;;
+3;BU_GEH_12POL_MQS_KOD-A_45G_HORIZONTAL;XC.J446.3;Steuergerät für Einparkhilfe;PDC_C;1-55H;8E0_972_112;TAB_010_046_AQ;-;schwarz;Stk.;1;-;;;
+3;KABELBINDER_2.5X95;KB_8;-;KB_8;1-55H;N_106_232_01;-;-;-;Stk.;1;-;;;
+1;LTGS.STECKDOSE;;;;;;;;;;;;;;
+2;V1;12E_970_175_B;L0L+9JD;4 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+1;LTGS.SERVOLENKUNG;;;;;;;;;;;;;;
+2;V1;12E_970_180_D;L0L;372 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;Kastenkontaktgehaeuse Kod.A;XA.J500.1;Steuergerät für Lenkhilfe [Teilenummer bitte der aktuellen Stückliste entnehmen!];CEPS_A;1-33D;6R0_971_959_A;-;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_3POL_SCHWARZ_KOD_1;XB.J500.1;Steuergerät für Lenkhilfe [Teilenummer bitte der aktuellen Stückliste entnehmen!];CEPS_B;1-34E;7N0_972_703;-;-;schwarz;Stk.;1;;;;
+1;LTGS.HORN;;;;;;;;;;;;;;
+2;V1;12E_970_191_F;L0L+8Y4;83 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEH_SCHWARZ_2POL_KOD_A_VIOLETT;XA.H2.2;Hochtonhorn;FHT;1-15C;4D0_971_992;TAB_010_329_AH;-;schwarz_vi;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;FHT;-;Stk.;X;;;;
+3;SOCKEL_KABELBINDER;CL_2;-;CL_2;1-17B;3D0_971_838_L;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_3;-;CL_3;1-16B;3D0_971_838_L;-;-;-;Stk.;1;;;;
+1;LTGS.CARDSYSTEM;;;;;;;;;;;;;;
+2;V1;12E_970_217;L0L+F0Q;123 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;PUR-Schaumstoffrohr Gr=0 D(i)=30.0 D(a)=40.0;3B0_971_790-2020_02_24-13_40_17_981.1;-;-;1-37A;3B0_971_790;-;-;-;Stk.;1;;;;
+3;PUR-Schaumstoffrohr Gr=0 D(i)=20.0 D(a)=35.0;171_035_518-2020_02_24-13_22_46_085.1;-;-;1-34A;171_035_518;-;-;-;Stk.;1;;;;
+3;BUCHSENGEHAEUSE_6-POL;TS29.1B1;Koppelstelle für Schlüsselschalter des Autorisierungsmodul;KS_HSK;1-34A;8E0_971_833;-;-;schwarz;Stk.;1;;;;
+3;BU_GEH_SCHWARZ_Qmax8V32_POL_KOD_DBE_GERADE;XA.J676.1;Steuergerät für Chipkartenleser;CDIS_A;1-37A;1J0_972_977;TAB_010_046_AN;-;schwarz;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_36;-;KB_36;1-37A;N_106_232_01;-;CDIS_A;-;Stk.;1;;;;
+3;Stecker Sicherungsadapter;XA.ST1.1;Sicherungsträger 1;SITR_4;1-34G;6R0_937_530;-;-;schwarz;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC71;-;S_SITR_4_01;1-34G;N_017_131_18;-;SITR_4;braun;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC72;-;S_SITR_4_02;1-34G;N_017_131_18;-;SITR_4;braun;Stk.;1;;;;
+1;LTGS.FRONTSCH.HZG.;;;;;;;;;;;;;;
+2;V1;12E_970_219_B;L0L+4GX;241 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;Relaisadapter;XA.J47.1;Relais für beheizbare Frontscheibe [links];R_FSH1_E;1-35J;4H0_937_527;TAB_010_213_R;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC51;-;RL_FSH1_E;1-35J;4H0_951_253_A;-;R_FSH1_E;-;Stk.;1;;;;
+3;Relaisadapter;XA.J611.1;Relais 2 für beheizbare Frontscheibe [rechts];R_FSH2_E;1-33H;4H0_937_527;TAB_010_213_R;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC50;-;RL_FSH2_E;1-33H;4H0_951_253_A;-;R_FSH2_E;-;Stk.;1;;;;
+3;fuse Type_C 30A;ID_ACC49;-;S_SITR_3_11;1-37E;N_017_131_15;-;SITR_3;hellgruen;Stk.;1;;;;
+3;RD-FLACHKONTAKTGEHAEUSE_2POL_4.8MM;XB.Z2.2;beheizbare Frontscheibe;FSH_E;1-21D;1J0_973_752;TAB_016_006_J;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_842;-;FSH_E;-;Stk.;X;;;;
+1;LTGS.REGENSENSOR;;;;;;;;;;;;;;
+2;V1;12E_970_249_D;L0L;44 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;BUCHSENKONTAKTGEHAEUSE_3-POL;XA.G397.1._1;Sensor für Regen- und Lichterkennung;RGS_E_1;1-49E;1C0_973_119_B;-;-;schwarz;Stk.;1;;;;
+3;Kabelhalter;CL_357;-;CL_357;1-47F;5E0_971_847;-;-;-;Stk.;1;;;;
+3;Kabelhalter;CL_358;-;CL_358;1-47E;5E0_971_847;-;-;-;Stk.;1;;;;
+1;LTGS.INTERNET;;;;;;;;;;;;;;
+2;V1;12E_970_283_E;L0L+EL1;204 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_26POL;XA.J794.1;Steuergerät für Informationselektronik 1;OCU;1-45C;7L6_972_726;-;-;schwarz;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC52;-;S_SITR_3_01;1-37E;N_017_131_18;-;SITR_3;braun;Stk.;1;;;;
+3;HF_KONTAKTGEHAEUSE_ERIKAVIOLETT_4POL_COD_H;XB.J794.1._1;Steuergerät für Informationselektronik 1;OCUB;1-47C;6Q0_035_608_G;TAB_016_396_B;-;erikaviolett;Stk.;1;;;;
+3;HF_KONTAKTGEHAEUSE_BORDEAUXVIOLETT_2-POL_KOD_D;XB.RX5.1._2;Dachantenne;ANT_GSM;1-58F;6Q0_035_576_C;TAB_016_396_A;-;bordeauxviolett;Stk.;1;;;;
+3;HF KONTAKTGEHAEUSE_SIGNALBLAU_2-POL_KOD_C;XC.RX5.1._2;Dachantenne;ANT_GPS;1-57F;6Q0_035_576_B;TAB_016_396_A;-;signalblau;Stk.;1;;;;
+1;LTGS.MIKROFON;;;;;;;;;;;;;;
+2;V1;12E_970_285_D;L0L+3FA+9ZX;46 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_2-POLIG_1,5MM;XA.R74.1._3;Innenmikrofon;MIK_1_1;1-49G;1J0_973_119;TAB_016_038_AJ;-;schwarz;Stk.;1;;;;
+1;LTGS.SCHNITTSTELLE;;;;;;;;;;;;;;
+2;V1;12E_970_295;L0L+UI5;79 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;BUCHSENGEH_KOD_A_POL_7_SCHWARZ;XA.U41.2;USB-Anschluss 1;USB_1;1-40D;8V0_035_750;TAB_026_004_AP;-;schwarz;Stk.;1;;;;
+3;FLACHKONTAKTGEHAEUSE_12POL;XC.R.5;Radio [MIB2 Entry];RAD_C1;1-38D;8X0_035_447_A;-;-;gruen;Stk.;1;;;;
+3;BUCHSENGEH_CURRYGELB_5POL_KOD_K;XH.R.5;Radio [MIB2 Entry];RAD_H1_1;1-37B;1S0_035_750_C;TAB_026_004_BR;-;currygelb;Stk.;1;;;;
+1;LTGS.KAMERA;;;;;;;;;;;;;;
+2;V1;12E_970_327;L0L+KA0;125 (g);;;;;;;;;;;
+2;V2;12E_970_327_A;L0L+KA1;327 (g);~;;;;;;;;;;
+2;V3;12S_970_327;L0L;89 (g);~;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;V3;;
+3;PP-Wellschlauch Gr=13.0 D(i)=10.9 D(a)=16.2;N___107_327_01-2018_11_14-12_31_53_287.1;-;-;1-60J;N___107_327_01;-;-;-;mm;600;600;600;;
+3;FLACHSTECKERGEHAEUSE_4-POL;XA.R246.1;Umfeld-Kamera hinten;KS_RVC_A;1-61H;7L0_973_812;TAB_016_007_A;-;schwarz;Stk.;-;1;-;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_RVC_A;-;Stk.;-;X;-;;
+3;fuse Type_F 7.5A;ID_ACC53;-;S_SITR_03;1-29H;N_102_615_02;-;SITR;braun;Stk.;-;1;-;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.X4.2;Kennzeichenleuchte links;KZL_L;1-64G;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;-;-;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KZL_L;-;Stk.;X;-;-;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.X4.2._1;Kennzeichenleuchte links;KZL_L_1;1-60F;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;-;1;-;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KZL_L_1;-;Stk.;-;X;-;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.X5.2;Kennzeichenleuchte rechts;KZL_R;1-66J;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;-;-;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KZL_R;-;Stk.;X;-;-;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.X5.2._1;Kennzeichenleuchte rechts;KZL_R_1;1-63F;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;-;1;-;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KZL_R_1;-;Stk.;-;X;-;;
+3;Flachkontaktgehaeuse;XA.X.1;Kennzeichenleuchte;KZL_SE;1-64G;5P0_972_724;-;-;natur;Stk.;-;-;1;;
+3;Winkelkappe;WK_KZL_SE;-;WK_KZL_SE;1-64G;1S0_906_732;-;KZL_SE;-;Stk.;-;-;1;;
+3;Cap;KZL;-;KZL;1-64G;5P0_972_401;-;KZL_SE;-;Stk.;-;-;1;;
+3;Connector Clip;L_KZL_SE;-;L_KZL_SE;1-64G;N_017_753_5;-;KZL_SE;-;Stk.;-;-;1;;
+4;Blindstopfen;-;-;-;-;UNI_BLIND_SEAL_280;-;KZL_SE;-;Stk.;-;-;X;;
+3;SOCKEL_KABELBINDER;CL_423;-;CL_423;1-64G;3D0_971_497_D;-;-;-;Stk.;-;-;1;;
+3;KABELFUEHRUNG;CL_444;-;CL_444;1-59J;3A0_971_615_D;-;-;-;Stk.;1;1;1;;
+3;KABELFUEHRUNG;CL_445;-;CL_445;1-60J;3A0_971_615_D;-;-;-;Stk.;1;1;1;;
+3;KABELHALTER;CL_446;-;CL_446;1-61J;1Z0_971_848_E;-;-;-;Stk.;1;1;1;;
+3;KABELFUEHRUNG;CL_447;-;CL_447;1-62J;3A0_971_615_D;-;-;-;Stk.;1;1;1;;
+3;CLIP;CL_448;-;CL_448;1-62H;1H0_971_848_L;-;-;-;Stk.;-;1;-;;
+3;CLIP;CL_449;-;CL_449;1-62G;1H0_971_848_L;-;-;-;Stk.;-;1;-;;
+3;SOCKEL_KABELBINDER;CL_450;-;CL_450;1-63F;3D0_971_838_L;-;-;-;Stk.;-;1;-;;
+3;SOCKEL_KABELBINDER;CL_451;-;CL_451;1-61F;3D0_971_838_L;-;-;-;Stk.;-;1;-;;
+3;KABELFUEHRUNG;CL_452;-;CL_452;1-63J;3A0_971_615_D;-;-;-;Stk.;1;-;1;;
+3;KABELFUEHRUNG;CL_453;-;CL_453;1-63J;3A0_971_615_D;-;-;-;Stk.;1;-;1;;
+3;SOCKEL_KABELBINDER;CL_454;-;CL_454;1-65J;3D0_971_838_L;-;-;-;Stk.;1;-;-;;
+3;SOCKEL_KABELBINDER;CL_455;-;CL_455;1-64H;3D0_971_838_L;-;-;-;Stk.;1;-;-;;
+3;GUMMITUELLE;TU_412;-;TU_412;1-58J;1J0_971_903;-;-;-;Stk.;1;1;1;;
+3;Rückfahrkamera;ZSB;-;KT_RVC;1-61G;1S1_971_028;-;-;-;Stk.;-;1;-;;
+1;LTGS.E-ANTRIEB;;;;;;;;;;;;;;
+2;V1;12E_970_350_F;L0L;1227 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;PVC-Isolierschlauch Gr=0 D(i)=4.0 D(a)=0;N___018_004_1-2018_11_14-12_15_55_429.1;-;-;1-17E;N___018_004_1;-;-;-;mm;55;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_43_37_023.1;-;-;1-19A;N___106_172_01;-;-;-;Stk.;1;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_45_49_425.1;-;-;1-18A;N___106_172_01;-;-;-;Stk.;1;;;;
+3;PE-Polyetylen Gr=0 D(i)=5.8 D(a)=0;N___106_172_01-2018_11_14-13_50_38_572.1;-;-;1-11H;N___106_172_01;-;-;-;Stk.;1;;;;
+3;Schrumpfschlauch Gr=0 D(i)=7.4 D(a)=0;N___106_173_01-2018_12_05-14_29_44_716.1;-;-;1-14H;N___106_173_01;-;-;-;mm;18;;;;
+3;RD-FLACHKONTAKTGEHAEUSE_14-POLIG_1,5MM;TML.1AH1;Koppelstelle im Motorraum links [Movo2 VW120/7];KS_MOVO2;1-13G;6X0_973_717_A;TAB_016_006_A;-;braun;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_MOVO2;-;Stk.;X;;;;
+3;FLACHKONTAKTGEH_14POL_SCHWARZ;TML.2AG1;Koppelstelle im Motorraum links [Movo1 VW120/7];KS_MOVO1;1-12G;3C0_973_737;TAB_016_006_AS;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;KS_MOVO1;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;KS_MOVO1;-;Stk.;X;;;;
+3;Verdrehschutz Leitungsstrangfest;VS_16;-;VS_16;1-14G;3C0_971_260_A;-;MB_16_1;-;Stk.;1;;;;
+3;FLACHKONTAKTGEH_14POL_SCHWARZ;XA.AX2.2._1;Hochvoltbatterie 1;BAT1_1;1-11A;3C0_973_737;TAB_016_006_AS;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;BAT1_1;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;BAT1_1;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_10POL;XA.E313.1;Wählhebel;WH_E;1-42E;6R0_972_930_A;-;-;rot;Stk.;1;;;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.F266.1;Kontaktschalter für Motorhaube;FHS;1-18B;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;FHS;-;Stk.;X;;;;
+3;KONTAKTGEHAEUSE_6POL_SCHWARZ;XA.GX2.1;Gaspedalmodul;GPM_E;1-31E;8K0_973_706;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;GPM_E;-;Stk.;X;;;;
+3;Relaisadapter;XA.J271.1;Hauptrelais;R_KL87;1-32H;4H0_937_527;TAB_010_213_R;-;schwarz;Stk.;1;;;;
+3;Relais;ID_ACC56;-;RL_KL87;1-32J;4H0_951_253_A;-;R_KL87;-;Stk.;1;;;;
+3;Kastenkontaktgehaeuse;XA.J539.1;Steuergerät für Bremskraftverstärkung;EBKV_A_E;1-16D;1S0_973_026_A;-;-;schwarz;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_22;-;KB_22;1-16D;N_106_232_01;-;EBKV_A_E;-;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;EBKV_A_E;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;EBKV_A_E;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_842;-;EBKV_A_E;-;Stk.;X;;;;
+3;fuse Type_F 7.5A;ID_ACC57;-;S_SITR_23;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC58;-;S_SITR_08;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_F 10A;ID_ACC59;-;S_SITR_07;1-29H;N_102_615_03;-;SITR;rot;Stk.;1;;;;
+3;fuse Type_F 10A;ID_ACC60;-;S_SITR_31;1-29H;N_102_615_03;-;SITR;rot;Stk.;1;;;;
+3;fuse Type_F 15A;ID_ACC61;-;S_SITR_18;1-29H;N_102_615_07;-;SITR;hellblau;Stk.;1;;;;
+3;fuse Type_C 15A;ID_ACC62;-;S_SITR_40;1-29H;N_017_131_12;-;SITR;hellblau;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC63;-;S_SITR_44;1-29H;N_017_131_18;-;SITR;braun;Stk.;1;;;;
+3;fuse Type_C 20A;ID_ACC64;-;S_SITR_42;1-29H;N_017_131_13;-;SITR;gelb;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC65;-;S_SITR_3_08;1-37E;N_017_131_18;-;SITR_3;braun;Stk.;1;;;;
+3;fuse Type_C 10A;ID_ACC66;-;S_SITR_3_06;1-37E;N_017_131_11;-;SITR_3;rot;Stk.;1;;;;
+3;FLACHKONTAKTGEH_4POL_SCHWARZ;XA.VX70.1;Druckspeicher für Bremssystem;AS_E;1-19A;8K0_973_724;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;AS_E;-;Stk.;X;;;;
+3;BUCHSENGEH_4POL_KOD_A;XB.J539.1;Steuergerät für Bremskraftverstärkung;EBKV_B_E;1-15D;8E0_971_934;-;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;EBKV_B_E;-;Stk.;X;;;;
+3;BUCHSENGEHAEUSE_94-POL;XB.J623.3;Motorsteuergerät;SGMB_E;1-8G;3C0_906_385;TAB_016_396;-;schwarz;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_26;-;KB_26;1-8G;N_106_232_01;-;SGMB_E;-;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;7L0_971_904;-;SGMB_E;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;7L0_971_904_A;-;SGMB_E;-;Stk.;X;;;;
+4;Blindstopfen;-;-;-;-;357_972_841;-;SGMB_E;-;Stk.;X;;;;
+3;FLACHKONTAKTGEHAEUSE_2POL;XC.J367.1;Steuergerät für Batterieüberwachung;BDM;1-17E;4F0_973_702;TAB_016_006_AL;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;BDM;-;Stk.;X;;;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XC.J539.1;Steuergerät für Bremskraftverstärkung;EBKV_C_E;1-18E;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;EBKV_C_E;-;Stk.;X;;;;
+3;fuse Type_C 7.5A;ID_ACC67;-;S_HSB_J2_E;1-19G;N_017_131_18;-;HSB;braun;Stk.;1;;;;
+3;fuse Type_C 7.5A;ID_ACC68;-;S_HSB_J5;1-19G;N_017_131_18;-;HSB;braun;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_17;-;CL_17;1-15E;3D0_971_838_N;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_31;-;CL_31;1-17E;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER;CL_36;-;CL_36;1-15D;3D0_971_838_M;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_40;-;CL_40;1-16E;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_65;-;CL_65;1-8H;4F2_721_663;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_66;-;CL_66;1-12B;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_67;-;CL_67;1-11B;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;SOCKEL_KABELBINDER_LKC2;CL_68;-;CL_68;1-12C;3D0_971_838_A;-;-;-;Stk.;1;;;;
+3;KABELBINDER_SOCKEL_KABELBINDER_6.50X160.00;CL_115;-;CL_115;1-33E;4F2_721_663;-;-;-;Stk.;1;;;;
+1;LTGS.ASSISTENT;;;;;;;;;;;;;;
+2;V1;12E_970_427;L0L+KA0+9ZX//L0L+KA1;21 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_12POL;XB.R.5;Radio [MIB2 Entry];RAD_B1;1-39B;8X0_035_447;-;-;blau;Stk.;1;;;;
+1;LTGS.ASSISTENT;;;;;;;;;;;;;;
+2;V1;12E_970_428;L0L+QK1;68 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;BUCHSENGEH_POL_12_KOD_A_SCHWARZ;XA.R242.1;Frontkamera für Fahrerassistenzsysteme;KAM;1-47E;8W0_972_112;TAB_010_046_DM;-;schwarz;Stk.;1;;;;
+3;fuse Type_F 7.5A;ID_ACC55;-;S_SITR_11;1-29H;N_102_615_02;-;SITR;braun;Stk.;1;;;;
+3;BUCHSENGEH_SCHWARZ_2_POL_KOD_A;XA.Z67.1;Frontscheibenheizung für Spurhalteassistent;FSH_1;1-47E;8W0_971_832;TAB_010_046_DP;-;schwarz;Stk.;1;;;;
+1;LTGS.ESOUND;;;;;;;;;;;;;;
+2;V1;12E_970_582_E;L0L+GM2;186 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;FLACHKONTAKTGEHAEUSE_6POL;XA.J943.1;Steuergerät für Motorgeräuscherzeugung;SGN_E;1-45H;4F0_973_706;TAB_016_006_AL;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;3B0_972_840;-;SGN_E;-;Stk.;X;;;;
+3;FLACHKONTAKTGEH_2POL_KOD_I_SCHWARZ;XA.R257.1;Aktuator 1 für Motorgeräuscherzeugung;LSGN_E;1-7H;8K0_973_702;TAB_010_329_CH;-;schwarz;Stk.;1;;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;LSGN_E;-;Stk.;X;;;;
+3;fuse Type_C 15A;ID_ACC54;-;S_SITR_37;1-29H;N_017_131_12;-;SITR;hellblau;Stk.;1;;;;
+1;LTGS.REIFENDR.KONT;;;;;;;;;;;;;;
+2;V1;12E_970_720_B;L0L+7K1/7K9;36 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;;;;
+3;BUCHSENGEH_ROT_6POL_MQS_KOD_C;XA.E226.1;Taster für Reifendruckkontrolle;T_RPA;1-34C;4D0_971_636_B;TAB_010_046_AS;-;rot;Stk.;1;;;;
+3;KABELBINDER_2.5X95;KB_20;-;KB_20;1-34C;N_106_232_01;-;-;-;Stk.;1;;;;
+1;LTGS.LADEN;;;;;;;;;;;;;;
+2;V1;12E_970_797_R;L0L+ES3;509 (g);;;;;;;;;;;
+2;V2;12E_970_797_AA;L0L+ES7;573 (g);;;;;;;;;;;
+0;Bezeichnung;VOBES-ID;Verwendung;Kurzname;xy;Teilenummer;TAB-Nummer;Referenzteil;Farbe;Einh.;V1;V2;;;
+3;STECKHUELSENGEH_10POL_SCHWARZ_KOD_I;TCR.1A1;Koppelstelle an der C-Säule rechts;LD_B_E;1-59C;4H0_973_715_A;TAB_010_329_CJ;-;schwarz;Stk.;1;1;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;LD_B_E;-;Stk.;X;X;;;
+3;FLACHKONTAKTGEH_4POL_KOD_I_SCHWARZ;TCR.1B1;Koppelstelle an der C-Säule rechts;LD_C_E;1-59B;8K0_973_704;TAB_010_329_CH;-;schwarz;Stk.;1;1;;;
+4;Blindstopfen;-;-;-;-;357_972_840;-;LD_C_E;-;Stk.;X;X;;;
+3;BUCHSENGEHAEUSE_8-POL_KODIERUNG_A;XA.EX22.3;Schaltermodul Schalttafel Mitte;SMM_E;1-42C;8L0_971_883;TAB_010_046_AQ;-;schwarz;Stk.;1;1;;;
+3;BU_GEH_GRAU_LQmax8V32_POL_KOD_ACE_AXIAL;XA.J966.1;Steuergerät für Ladespannung der Hochvoltbatterie;LM_A_E;1-43H;1J0_972_977_J;TAB_010_046_AN;-;grau;Stk.;1;-;;;
+3;BU_GEH_GRAU_LQmax8V32_POL_KOD_ACE_AXIAL;XA.J966.2;Steuergerät für Ladespannung der Hochvoltbatterie;LM_A_E2;1-43G;1J0_972_977_J;TAB_010_046_AN;-;grau;Stk.;-;1;;;
+3;BUCHSENGEHAEUSE_32-POL;XB.J966.2;Steuergerät für Ladespannung der Hochvoltbatterie;LM_B_E;1-43G;4E0_972_977;TAB_010_046_AN;-;schwarz;Stk.;-;1;;;
+3;SOCKEL_KABELBINDER;CL_438;-;CL_438;1-59C;3D0_971_838_N;-;-;-;Stk.;1;1;;;
+3;KABELBINDER_4.6X200;KB_27;-;KB_27;1-43H;N_909_377_01;-;-;-;Stk.;1;-;;;
+3;KABELBINDER_4.6X200;KB_28;-;KB_28;1-43G;N_909_377_01;-;-;-;Stk.;-;1;;;
+3;KABELBINDER_4.6X200;KB_33;-;KB_33;1-43H;N_909_377_01;-;-;-;Stk.;-;1;;;
+3;GUMMITUELLE;TU_411;-;TU_411;1-59A;1J0_971_903;-;-;-;Stk.;1;1;;;

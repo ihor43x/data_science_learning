@@ -2,18 +2,18 @@ import pandas as pd
 import re
 
 """Reading CSV file"""
-# df_csv = pd.read_csv('KeithGalli/pokemon_data.csv')
+# df_csv = pd.read_csv('data_science_learning/KeithGalli/pokemon_data.csv')
 # print(df_csv)
 # print(df_csv.head(3))
 # print(df_csv.tail(3))
 
 """Reading XLSX file"""
-df_xlsx = pd.read_excel('KeithGalli/pokemon_data.xlsx')
-# print(df_xlsx)
+df_xlsx = pd.read_excel('data_science_learning/KeithGalli/pokemon_data.xlsx')
+print(df_xlsx)
 # print(df_xlsx.head(3))
 
 """Reading TXT file"""
-# df_txt = pd.read_csv('KeithGalli/pokemon_data.txt', delimiter='\t')
+# df_txt = pd.read_csv('data_science_learning/KeithGalli/pokemon_data.txt', delimiter='\t')
 # print(df_txt)
 
 """Reading data"""
@@ -46,9 +46,9 @@ df_xlsx = pd.read_excel('KeithGalli/pokemon_data.xlsx')
 # print(df_xlsx.head(2))
 
 """"Write data to file"""
-# df_xlsx.to_csv('KeithGalli/modified.csv', index=False)
-# df_xlsx.to_csv('KeithGalli/modified.txt', index=False, sep='\t')
-# df_xlsx.to_excel('KeithGalli/modified.xlsx', index=False)
+# df_xlsx.to_csv('modified.csv', index=False)
+# df_xlsx.to_csv('modified.txt', index=False, sep='\t')
+# df_xlsx.to_excel('modified.xlsx', index=False)
 
 """Filtering Data"""
 # x = df_xlsx.loc[(df_xlsx['Type 1'] == 'Grass') & (df_xlsx['Type 2'] == 'Poison')]
@@ -56,13 +56,13 @@ df_xlsx = pd.read_excel('KeithGalli/pokemon_data.xlsx')
 
 # x = df_xlsx.loc[(df_xlsx['Type 1'] == 'Grass') | (df_xlsx['Type 2'] == 'Poison')]
 # print(x)
-# x.to_csv('KeithGalli/modified2.txt', index=False, sep='\t')
+# x.to_csv('modified2.txt', index=False, sep='\t')
 
 # new_df = df_xlsx.loc[(df_xlsx['Type 1'] == 'Grass') &
 #                      (df_xlsx['Type 2'] == 'Poison') &
 #                      (df_xlsx['HP'] > 70)]
 # new_df = new_df.reset_index()  # drop=True, inplace=True
-# new_df.to_excel('KeithGalli/filtered.xlsx')
+# new_df.to_excel('filtered.xlsx')
 
 # print(df_xlsx.loc[df_xlsx['Name'].str.contains('Mega')])  # Names contains "Mega"
 # print(df_xlsx.loc[~df_xlsx['Name'].str.contains('Mega')])  # (~) - Excludes names contains "Mega"
@@ -88,7 +88,7 @@ df_xlsx = pd.read_excel('KeithGalli/pokemon_data.xlsx')
 
 """Aggregate Statistics (Group by)"""
 # new_df = df_xlsx.groupby(['Type 1']).mean().sort_values('Defense', ascending=False)
-# new_df.to_excel('KeithGalli/grouped.xlsx')
+# new_df.to_excel('grouped.xlsx')
 
 # print(df_xlsx.groupby(['Type 1']).sum())
 #
@@ -102,10 +102,10 @@ df_xlsx = pd.read_excel('KeithGalli/pokemon_data.xlsx')
 
 """Working with large amounts of data"""
 # new_df = pd.DataFrame(columns=df_xlsx.columns)
-# for df in pd.read_csv('KeithGalli/pokemon_data.csv', chunksize=5):
+# for df in pd.read_csv('data_science_learning/KeithGalli/pokemon_data.csv', chunksize=5):
 #     results = df.groupby(['Type 1']).count()
 #     new_df = pd.concat([new_df, results])
 #     # print("CHUNK DF")
 #     # print(df)
 # print(new_df)
-# new_df.to_excel('KeithGalli/concated.xlsx')
+# new_df.to_excel('concated.xlsx')
